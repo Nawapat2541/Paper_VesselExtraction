@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/OpenCV_tutorial.iml" filepath="$PROJECT_DIR$/OpenCV_tutorial.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Paper_VesselExtraction.iml" filepath="$PROJECT_DIR$/Paper_VesselExtraction.iml" />
     </modules>
   </component>
 </project>
