@@ -2,7 +2,7 @@ import cv2 as cv
 import numpy as np
 from matplotlib import pyplot as plt
 
-img = cv.imread('Pictures/training/images/21_training.tif')
+img = cv.imread('DRIVE/training/images/21_training.tif')
 resized_img = cv.resize(img, dsize=(584, 565))
 height, width, channels = resized_img.shape
 print(height, width, channels)
